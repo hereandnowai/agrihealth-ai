@@ -1,0 +1,8 @@
+{
+  "name": "AgriHealth AI",
+  "description": "An AI-powered web application to identify crop diseases early through automated analysis of images from drones, field sensors, and live camera feeds. It provides diagnoses, treatment recommendations, and real-time chat support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
